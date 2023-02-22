@@ -1,0 +1,38 @@
+main {
+    border: 2px solid darkmagenta;
+    background-color: lightgoldenrodyellow;
+    font-family: monospace, serif;
+}
+
+h1 {
+    color: lightblue;
+    text-align: center;
+    padding: 1px;
+    margin: 10 auto;
+    border: 2px solid blue;
+    background-color: teal;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    position: relative;
+    margin: 0 auto;
+}
+
+th {
+    color: red;
+    font-size: 22px;
+}
+
+td {
+    font-size: 18px;
+}
+
+td.tag {
+    font-weight: bold;
+}
